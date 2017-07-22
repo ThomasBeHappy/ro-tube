@@ -1,0 +1,1 @@
+<link rel="shortcut icon" href="http://www.faviconico.org/ico-converted/20170723/favicon-20170723034250968.ico" />
